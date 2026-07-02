@@ -3,11 +3,17 @@ A real-time object detection system built using YOLOv8, OpenCV, and Python. This
 
 Features:
 ✅ Real-Time Webcam Object Detection
+
 ✅ Image Object Detection
+
 ✅ Video Object Detection
+
 ✅ Bounding Boxes and Confidence Scores
+
 ✅ Save Detection Results
+
 ✅ Class Name and Confidence Display
+
 ✅ Easy to Extend for Custom Datasets
 
 Technologies:
